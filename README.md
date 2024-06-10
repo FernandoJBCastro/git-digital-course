@@ -1,3 +1,5 @@
-# git-digital-course
-Repositório do Cusro Git da ADATech
-Incluindo informações
+# Curso Digital: Git
+
+## Salvando alterações no Git
+* command git push
+* Command git pull
